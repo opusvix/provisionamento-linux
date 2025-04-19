@@ -43,3 +43,24 @@ sudo bash provisionamento.sh
 - Distribuição Linux com Bash
 - Permissões de superusuário (root)
 - OpenSSL instalado
+
+## 🚀 Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/opusvix/<nome-do-repositorio>.git
+   cd <nome-do-repositorio>
+
+2. Torne o script executável:
+   ```bash
+   chmod +x provisionamento.sh
+
+3. Execute o script como root:
+   ```bash
+   sudo ./provisionamento.sh
+
+🛠️ Autor
+Desenvolvido por [opusvix](www.github.com/opusvix)
+
+
+
